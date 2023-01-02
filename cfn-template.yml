@@ -36,7 +36,8 @@ Resources:
           sudo mv /project-static-web-server/php.jpg /var/www/html/
           sudo mv /project-static-web-server/shell.jpg /var/www/html/
           sudo mv /project-static-web-server/c.jpg /var/www/html/
-          sudo mv /project-static-web-server/ruby.jpg /var/www/html/          
+          sudo mv /project-static-web-server/ruby.jpg /var/www/html/  
+          sudo mv /project-static-web-server/rainbow.jpg /var/www/html/        
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
     Properties:
